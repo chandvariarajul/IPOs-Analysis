@@ -4,12 +4,14 @@
 Project Overview
 This project analyzes the performance of five new Initial Public Offerings (IPOs) launched in 2024 on the Indian Stock Exchange. The analysis includes stock price trends, trading volumes, market capitalization, and 30-day moving averages for each IPO. The five companies analyzed are:
 
-Premier Energies
-Unicommerce eSolutions
-Brainbees Solutions (FirstCry)
-Ola Electric
-Gala Precision Engineering
+- Premier Energies
+- Unicommerce eSolutions
+- Brainbees Solutions (FirstCry)
+- Ola Electric
+- Gala Precision Engineering
+
 Key Findings
+
 Premier Energies: Highest opening price of ₹1,120, with a peak market capitalization of ₹45.21 billion.
 Unicommerce eSolutions: Observed a maximum trading volume of 36.9 million shares with a peak market cap of ₹8.66 billion.
 Brainbees Solutions (FirstCry): Highest market capitalization of ₹44.15 billion and a significant trading volume of 61.1 million shares.
